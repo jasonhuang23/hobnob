@@ -1,0 +1,25 @@
+.hobnobs-background{
+  background: url(http://courses.ics.hawaii.edu/ics314f17/morea/ui-frameworks/hobnob-background.jpg) no-repeat center center fixed;
+  background-size: cover;
+  height: 550px;
+  color: white;
+  padding-top: 50px;
+}
+
+.ui.container{
+  background: transparent;
+  box-shadow: none;
+  border: none;
+}
+
+.ui.topmenu.inverted.menu{
+  background: transparent;
+
+}
+.download.item{
+  border: 4px solid white;
+}
+
+.ui.column{
+  margin-top: 10px;
+}
